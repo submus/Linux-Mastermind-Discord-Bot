@@ -2,8 +2,8 @@
 
 ## Dependencies
 - [python](https://www.python.org/) 3.8.0+
-- [discord.py](https://pypi.org/project/discord.py/) 2.2.2
-- [python-dotenv](https://pypi.org/project/python-dotenv/) 1.0.0
+- [discord.py](https://pypi.org/project/discord.py/) 2.6.4
+- [python-dotenv](https://pypi.org/project/python-dotenv/) 1.2.1
 
 ## Getting Started
 1. Clone the repository by running the following command in your terminal:
